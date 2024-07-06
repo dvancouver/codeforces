@@ -1,1 +1,7 @@
-starting codeforecs repo
+# Solution to codeforces Problemsets
+
+
+## starting codeforecs repo
+
+
+
